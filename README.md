@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Data Science Student</h3> 
+<h3 align="center">DS Student</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciordalm" alt="fabriciordalm" /> </p>
 
 - Undergraduate in System Analisys and Development
