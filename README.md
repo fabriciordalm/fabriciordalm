@@ -1,14 +1,13 @@
 
 
-<h3 align="center">IT student</h3>
+<h3 align="center">Data Science Student</h3> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciordalm" alt="fabriciordalm" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabricioalmeidabr" alt="fabricioalmeidabr" /> </p>
-
-- 🔭 Interests: research, data and development.
-
-- 📌 My userful links: [linktr.ee/fabricioalmeidabr](https://linktr.ee/fabricioalmeidabr)
-
-<!-- - 📝 I regulary write articles on [medium.com/@fabricioalmeidabr](https://medium.com/@fabricioalmeidabr) -->
-
-- 📫 My email: [heyfabricioalmeida@gmail.com](mailto:heyfabricioalmeida@gmail.com)
+- Undergraduate in System Analisys and Development
+- I'm currently learning concepts of statistics & improving my english
+- Interested in data, development, musics, politics
+- Working with Python, Linux, SQL
+- Pronouns: He/Him (EN) - Ele/Dele (PT)
+<!-- - 📝 I regulary write articles on [medium.com/@fabriciordalm](https://medium.com/@fabriciordalm) 
+- 📫 My email: [fabriciordalm@gmail.com](mailto:fabriciordalm@gmail.com) -->
 
