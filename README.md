@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;- Utilizo Python, Linux, SQL\
 &nbsp;&nbsp;&nbsp;- Interessado em dados, desenvolvimento, música, política, futebol
  
- <details>
+ <!-- <details>
   <summary><b>Minhas Habilidades</b></summary>
   <br>
   <style="display: inline_block">
@@ -36,6 +36,6 @@
   <tr><td>Visualização relacionada ao Desmatamamento da Amazônia (2015-2021)</a></td><td>https://github.com/fabriciordalm/Desmatamento-na-Amazonia</a></td></tr/>
    </table>
    <br/> 
- </details>
+ </details> -->
 
 
