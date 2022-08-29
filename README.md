@@ -7,7 +7,7 @@
 
 </div>
 
-&nbsp;&nbsp;&nbsp;- Graduando em Análise e Desenvolvimento de Sistemas\
+&nbsp;&nbsp;&nbsp;- Graduado em Análise e Desenvolvimento de Sistemas\
 &nbsp;&nbsp;&nbsp;- Atualmente estudando conceitos estatísticos\
 &nbsp;&nbsp;&nbsp;- Em busca de uma oportunidade\
 &nbsp;&nbsp;&nbsp;- Utilizo Python, Linux, SQL\
