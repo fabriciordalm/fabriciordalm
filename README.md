@@ -1,4 +1,4 @@
-<img src="svg/headline.svg"></img>
+<!-- <img src="svg/headline.svg"></img> -->
 <div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciordalm" alt="fabriciordalm" /> </p>
