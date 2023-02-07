@@ -8,7 +8,6 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;- Graduado em Análise e Desenvolvimento de Sistemas\
-&nbsp;&nbsp;&nbsp;- Atualmente estudando conceitos estatísticos\
 &nbsp;&nbsp;&nbsp;- Em busca de uma oportunidade\
 &nbsp;&nbsp;&nbsp;- Utilizo Python, Linux, SQL\
 &nbsp;&nbsp;&nbsp;- Interessado em dados, desenvolvimento, música, política, futebol
