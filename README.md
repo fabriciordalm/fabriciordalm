@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;- Graduado em Análise e Desenvolvimento de Sistemas\
 &nbsp;&nbsp;&nbsp;- Em busca de uma oportunidade\
 &nbsp;&nbsp;&nbsp;- Utilizo Python, Linux, SQL\
-&nbsp;&nbsp;&nbsp;- Interessado em dados, desenvolvimento, música, política, futebol
+&nbsp;&nbsp;&nbsp;- Interessado em dados, política, música, esportes
  
  <!-- <details>
   <summary><b>Minhas Habilidades</b></summary>
