@@ -9,7 +9,6 @@
 
 &nbsp;&nbsp;&nbsp;- Graduado em Análise e Desenvolvimento de Sistemas\
 &nbsp;&nbsp;&nbsp;- Atualmente estudando inglês\
-&nbsp;&nbsp;&nbsp;- Em busca de uma oportunidade\
 &nbsp;&nbsp;&nbsp;- Utilizo Python, SQL, Linux\
 &nbsp;&nbsp;&nbsp;- Interessado em dados, política, música, esportes
  
