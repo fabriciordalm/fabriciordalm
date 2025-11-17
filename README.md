@@ -1,7 +1,8 @@
 
 ## 👋 Olá! Seja bem-vindo(a)
 
-Apaixonado por tecnologia, aprendizado contínuo e soluções orientadas a dados. Busco evoluir constantemente por meio do estudo de idiomas e de cursos que ampliam minhas competências.
+Apaixonado por tecnologia, aprendizado contínuo e soluções orientadas a dados. 
+Busco evoluir constantemente por meio do estudo de idiomas e de cursos que ampliam minhas competências.
 
 ### Sobre mim
 - 🎓 **Graduação:** Análise e Desenvolvimento de Sistemas  
