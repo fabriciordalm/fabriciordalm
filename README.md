@@ -14,4 +14,3 @@ Apaixonado por tecnologia, aprendizado contínuo e soluções orientadas a dados
 - Consultas e análises em SQL  
 - Automação e pequenos experimentos  
 - Conteúdos voltados ao aprendizado contínuo  
----
